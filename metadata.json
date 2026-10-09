@@ -1,0 +1,10 @@
+{
+  "name": "Sat - Satine Liotaud Voice Assistant",
+  "description": "Minimalist, sophisticated voice assistant representing Satine Liotaud, luxury commerce and logistics specialist.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
